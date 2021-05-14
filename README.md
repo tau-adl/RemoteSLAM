@@ -43,7 +43,7 @@ SLAM algorithms soon to be supported:
     See on our Wiki page: https://github.com/tau-adl/RemoteSLAM/wiki/In-construction:--DSO-and-LDSO-(mono)-calibrations-and-ROS-wrappers
 
 
-ROS wrappers (for real time implementations) are provided for both the sensors and the SLAM algorithms (where not available in the original repo).
+ROS wrappers (for real time implementations) are provided for both the sensors and the SLAM algorithms (where not available in the original repo) .
 
 
 **Please find more information on the [wiki pages](https://github.com/tau-adl/RemoteSLAM/wiki) of this repository.**
