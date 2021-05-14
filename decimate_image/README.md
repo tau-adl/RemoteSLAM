@@ -1,1 +1,1 @@
-This ROS package is used on the Pi to decimate frames from a mvBluefox camera. The decimation is needed for the low bandwidth and low delay transmission over wifi. On the host side, the low resolution worked nicely with OrbSLAM3.
+This ROS package is used on the Pi to decimate frames from a mvBluefox camera. The decimation is needed for the low bandwidth and low delay transmission over wifi. On the host side, the low resolution worked nicely with OrbSLAM3 SLAM.
