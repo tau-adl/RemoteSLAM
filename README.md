@@ -1,6 +1,6 @@
 # RemoteSLAM
 
-The purpose of this repo is to provide the building blocks (software drivers, hardware and algorithms) for implementing SLAM systems using small and lightweight sensors (e.g., cameras, imu).
+The purpose of this repo is to provide the building blocks (software drivers, hardware and algorithms) for implementing SLAM systems using small and lightweight sensors (e.g., cameras, imu) .
 We plan to improve this repo as we go, while receiving assistance from the community.
 At this moment, the tool supports 3 types of monochrome cameras/sensors, combined with the Invense MPU 9X50 family:
 * Matrix-Vision:  mvBlueFOX3-M/MLC 
